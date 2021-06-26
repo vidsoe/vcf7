@@ -1,0 +1,8 @@
+#delete-action,
+#minor-publishing,
+.page-title-action {
+    display: none !important;
+}
+#major-publishing-actions {
+    border-top: 0 !important;
+}
